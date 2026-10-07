@@ -1,0 +1,5 @@
+# Optional advanced diagnostics. For pnpm dev, copy to .dev.vars at the root.
+# For pnpm start / desktop, copy to dist/server/.dev.vars after building.
+# These values stay on the server. Never use NEXT_PUBLIC_ for the token.
+PROBE_AGENT_URL=https://probe.example.com
+PROBE_AGENT_TOKEN=replace-with-the-same-random-secret-as-the-agent
