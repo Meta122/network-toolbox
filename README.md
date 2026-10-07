@@ -150,6 +150,10 @@ Les appels à des services externes et l'installation PWA dépendent du réseau 
 
 Pour proposer une amélioration ou signaler un problème, consultez [CONTRIBUTING.md](CONTRIBUTING.md) et ouvrez une [issue](https://github.com/Meta122/network-toolbox/issues) avec les étapes de reproduction. Retirez les données personnelles des rapports joints.
 
+## Assistance au développement
+
+Ce projet a été développé avec l'assistance de Codex pour l'implémentation, la documentation et certaines vérifications techniques. Les orientations du projet et les décisions de publication restent sous la responsabilité du mainteneur.
+
 ## Licence et crédit
 
 Network Toolbox est distribué sous [licence MIT](LICENSE). Vous pouvez l'utiliser, le modifier et le redistribuer, y compris commercialement, en conservant la notice de copyright et le texte de la licence dans les copies ou portions substantielles réutilisées.
